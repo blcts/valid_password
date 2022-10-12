@@ -21,3 +21,5 @@ I need to write code that will count the number of valid passwords in such a fil
 <img width="1440" alt="Screenshot 2022-10-10 at 17 06 11" src="https://user-images.githubusercontent.com/27241911/194889177-b9345a35-5cad-465d-9526-670765b91fe1.png">
 
 Then I changed first string and delete ``` a ``` and become 1 of 3 are right <img width="1440" alt="Screenshot 2022-10-10 at 17 06 49" src="https://user-images.githubusercontent.com/27241911/194889417-811479c2-7d41-402b-9eae-ae224ddc8683.png">
+
+### To run app - use ``` nmp start ```

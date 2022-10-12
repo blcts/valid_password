@@ -41,5 +41,14 @@ function ValidPassword(text) {
       result++;
     };
   };
-  console.log(result);
+  console.log(
+`_______________________________________
+Password properties:
+
+${text}
+_______________________________________
+
+Number of valid passwords: ${result}
+_______________________________________`
+  )
 }
